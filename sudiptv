@@ -1,25 +1,7 @@
 #EXTM3U
-#EXTINF:-1,MAR: 2M Marroc
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/208.ts
-#EXTINF:-1,MAR: Al Maghribia
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/210.ts
-#EXTINF:-1,MAR: Al Oula
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/209.ts
-#EXTINF:-1,MAR: Ariadhia
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/212.ts
-#EXTINF:-1,MAR: Arrabia
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/211.ts
-#EXTINF:-1,Al Anwar
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/1908.ts
-#EXTINF:-1,AR_Abu Dhabi Drama
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/249.ts
-#EXTINF:-1,AR_Al an
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/1801.ts
-#EXTINF:-1,AR_Al Majd Quran
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/250.ts
-#EXTINF:-1,AR_Baraeem
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/254.ts
-#EXTINF:-1,AR_Cairo Film
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/253.ts
-#EXTINF:-1,AR_Dubai Nour
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/171.ts
+#EXTINF:-1,|AR|_MBC_2
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/65.ts
+#EXTINF:-1,|AR|_MBC_4
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/62.ts
+#EXTINF:-1,|AR|_MBC_1 www.iptv4sat.com
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/61.ts
